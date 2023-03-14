@@ -56,23 +56,12 @@ OUT\_LEN = 20
 
 # Results and Discussion
 
-Evaluation metric - BertScore (DistillBert)
+Model|Precision|Recall|F1|
+---|---|---|---|
+GPT2|0.710|0.699|0.704|
+BioGPT|0.733|0.706|0.719|
 
-*Result from GPT-2*
 
-Precision - 0.710
-
-Recall - 0.699
-
-F1 - 0.704
-
-*Result from Bio GPT*
-
-F1 0.719
-
-Precision 0.733
-
-Recall 0.706
 
 **Evaluation Report of the model with BertScore and RougeL metrics**
 
